@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1516329218 "hw1.tex" "tex extra/hw1.pdf" "hw1" 1516329220
+["pdflatex"] 1516330201 "hw1.tex" "tex extra/hw1.pdf" "hw1" 1516330202
   "/usr/local/texlive/2016basic/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2016basic/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016basic/texmf-dist/fonts/tfm/adobe/palatino/pplb7t.tfm" 1136768653 1616 371d1ee60c04b008c8fd760060cd34f1 ""
@@ -85,9 +85,9 @@
   "/usr/local/texlive/2016basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1484682762 2502199 5688785346fd0a23afa8ec464c8f6335 ""
   "/usr/local/texlive/2016basic/texmf.cnf" 1463981856 628 02e65753891144204a0c89f7fa5761b2 ""
   "hmcpset.cls" 1444085007 4081 6d31fd12c75d48ff90e4161b84aee212 ""
-  "hw1.tex" 1516329218 4559 c638ad93972fca2d73763aa968c4e444 ""
-  "tex extra/hw1.aux" 1516329220 8 a94a2480d3289e625eea47cd1b285758 ""
+  "hw1.tex" 1516330201 4562 945255576a055ec0b15282351e61b515 ""
+  "tex extra/hw1.aux" 1516330202 8 a94a2480d3289e625eea47cd1b285758 ""
   (generated)
+  "tex extra/hw1.aux"
   "tex extra/hw1.pdf"
   "tex extra/hw1.log"
-  "tex extra/hw1.aux"
