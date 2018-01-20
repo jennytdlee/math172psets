@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.17)  18 JAN 2018 18:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.17)  19 JAN 2018 16:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -273,7 +273,7 @@ LaTeX Font Info:    Try loading font information for U+fplmbb on input line 32.
 File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
 ) [1
 
-{/usr/local/texlive/2016basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] (tex extra/hw1.aux) ) 
+{/usr/local/texlive/2016basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] (tex extra/hw1.aux) ) 
 Here is how much of TeX's memory you used:
  3069 strings out of 494447
  42220 string characters out of 6166766
@@ -282,12 +282,12 @@ Here is how much of TeX's memory you used:
  19744 words of font info for 62 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
  40i,14n,32p,257b,303s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016basic/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/urw/palatino/uplr8
-a.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "tex extra/hw1.pdf" (7 pages, 104791 bytes).
+{/usr/local/texlive/2016basic/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/mathpazo/fplmbb.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2016basic/texmf-dist/fonts/type1/urw/palatino/uplr8a.pf
+b></usr/local/texlive/2016basic/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on "tex extra/hw1.pdf" (6 pages, 103709 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 52 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
