@@ -24,10 +24,11 @@
 \newcommand{\Rr}{\mathbb{R}}
 \newcommand{\Qq}{\mathbb{Q}}
 \newcommand{\Cc}{\mathbb{C}}
+\newcommand{\Aut}[1]{\text{Aut} \left(#1\right) }
 
 \begin{document}
 
-\problemlist{14.1 (1a, 3, 7 )14.2 ( 3, 13, 14 ) }
+\problemlist{14.1 (1a, 3, 7), 14.2 (3, 13, 14) }
 
 \begin{problem}[14.1.1a]
   Show that if a field $K$ is generated over $F$ by the elements $\alpha_1, \dots , \alpha_n$ then an automorphism $\sigma$ of $K$ fixing $F$ is uniquely determined by $\sigma(\alpha_1), \dots, \sigma(\alpha_n)$. In particular show that an automorphism fixes $K$ if and only if it fixes a set of generators for $K$.
@@ -46,7 +47,12 @@
 \newpage
 
 \begin{problem}[14.1.7]
-  Show that if a field $K$ is generated over $F$ by the elements $\alpha_1, \dots , \alpha_n$ then an automorphism $\sigma$ of $K$ fixing $F$ is uniquely determined by $\sigma(\alpha_1), \dots, \sigma(\alpha_n)$. In particular show that an automorphism fixes $K$ if and only if it fixes a set of generators for $K$.
+  This exercise determines $\Aut{\Rr/\Qq}.$
+  \begin{enumerate}
+    \item [(a)] Prove that any $\sigma \in \Aut{\Rr/\Qq}$ takes squares to squares and takes positive reals to positive reals. Conclude that $a < b$ implies $\sigma a < \sigma b$ for every $a, b\in \Rr$.
+    \item[(b)] Prove that $-\frac{1/m} < a - b < \frac{1}{m}$ implies $-\frac{1/m} < \sigma a - \sigma b < \frac{1}{m}$ for every positive integer $m$. Conclude that $\sigma $ is a continuous map on $\Rr.$
+    \item[(c)] Prove that any continuous map on $\Rr$ which is the identity on $\Qq$ is the identity map, hence $\Aut{\Rr/\Qq} = 1$.
+  \end{enumerate}
 \end{problem}
 \begin{solution}
 \vfill
@@ -54,7 +60,7 @@
 \newpage
 
 \begin{problem}[14.2.3]
-  Show that if a field $K$ is generated over $F$ by the elements $\alpha_1, \dots , \alpha_n$ then an automorphism $\sigma$ of $K$ fixing $F$ is uniquely determined by $\sigma(\alpha_1), \dots, \sigma(\alpha_n)$. In particular show that an automorphism fixes $K$ if and only if it fixes a set of generators for $K$.
+  Determine the Galois group of $(x^2 - 2)(x^2 - 3)(x^2 - 5)$. Determine \emph{all} the subfields of the splitting field of this polynomial.
 \end{problem}
 \begin{solution}
 \vfill
@@ -62,7 +68,7 @@
 \newpage
 
 \begin{problem}[14.2.13]
-  Show that if a field $K$ is generated over $F$ by the elements $\alpha_1, \dots , \alpha_n$ then an automorphism $\sigma$ of $K$ fixing $F$ is uniquely determined by $\sigma(\alpha_1), \dots, \sigma(\alpha_n)$. In particular show that an automorphism fixes $K$ if and only if it fixes a set of generators for $K$.
+  Prove that if the Galois group of the splitting field of a cubic over $\Qq$ is the cyclic group of order 3 then all the roots of the cubic are real.
 \end{problem}
 \begin{solution}
 \vfill
@@ -70,7 +76,7 @@
 \newpage
 
 \begin{problem}[14.2.14]
-  Show that if a field $K$ is generated over $F$ by the elements $\alpha_1, \dots , \alpha_n$ then an automorphism $\sigma$ of $K$ fixing $F$ is uniquely determined by $\sigma(\alpha_1), \dots, \sigma(\alpha_n)$. In particular show that an automorphism fixes $K$ if and only if it fixes a set of generators for $K$.
+  Show that $\Qq(\sqrt{2+\sqrt{2}})$ is a cyclic quartic field, i.e., is a Galois group of degree 4 with cyclic Galois group.
 \end{problem}
 \begin{solution}
 \vfill
