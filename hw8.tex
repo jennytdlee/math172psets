@@ -1,0 +1,90 @@
+\documentclass[12pt,letterpaper]{hmcpset}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{amsmath}
+
+% info for header block in upper right hand corner
+\name{ }
+\class{Math 172}
+\assignment{Assignment 8}
+\duedate{Tuesday, April 10, 2018}
+
+\newcommand{\pn}[1]{\left( #1 \right)}
+\newcommand{\abs}[1]{\left| #1 \right|}
+\newcommand{\bk}[1]{\left[ #1 \right]}
+
+\newcommand{\vb}{\mathbf{v}}
+\newcommand{\ub}{\mathbf{u}}
+\newcommand{\fx}{f \left( x \right) =}
+\newcommand*\LH{\ensuremath{\overset{\kern2pt L'H}{=}}}
+\renewcommand{\labelenumi}{{(\alph{enumi})}}
+
+\newcommand{\Ff}{\mathbb{F}}
+\newcommand{\Zz}{\mathbb{Z}}
+\newcommand{\Rr}{\mathbb{R}}
+\newcommand{\Qq}{\mathbb{Q}}
+\newcommand{\Cc}{\mathbb{C}}
+\newcommand{\Aut}[1]{\text{Aut} \left(#1\right) }
+
+\begin{document}
+
+\problemlist{Problem G, Problem H, 14.6 ( 2c, 22, 23a, 37 )}
+
+\begin{problem}[Problem G]
+  Verify that if $\omega$ is a complex 3rd root of unity ($\omega^3 = 1$) and $x = u + v$ is a solution to the depressed cubic $x^3 + px + q = 0$, then $x = u\omega + v\omega^2$ and $x = u\omega^2 + v\omega$ are also solutions.  Explain why $x = u\omega + v\omega$  is not a solution in the context of the derivation of Cardano's formulas.
+\end{problem}
+\begin{solution}
+  \vfill
+\end{solution}
+\newpage
+
+\begin{problem}[Problem H]
+Use Cardano’s formulas to solve $x^3 + x^2 -2 = 0$.  Find all 3 solutions.  Then verify that your expressions are equal to the 3 roots: $1, ( -1+ i ), (-1 - i )$.
+\end{problem}
+\begin{solution}
+  \vfill
+\end{solution}
+\newpage
+
+\begin{problem}[14.6.2c]
+  Determine the Galois groups of the following polynomial: $x^3 - x + 1$.
+\end{problem}
+\begin{solution}
+\vfill
+\end{solution}
+\newpage
+
+\begin{problem}[14.6.22]
+  \emph{(Newton's Formulas)} Let $f(x)$ be a monic polynomial of degree $n$ with roots $\alpha_1, \dots , \alpha_n.$ Let $s_i$ be the elementary symmetric function of degree $i$ in the roots and define $s_i = 0$ for $i > n$. Let $p_i = \alpha_1^i + \dots + \alpha_n^i, i\ge 0$, be the sum of the $i^{\text{th}}$ powers of the roots of $f(x)$. Prove Newton's Formulas:
+  \begin{align*}
+    p_1 &- s_1 = 0\\
+    p_2 &- s_1p_1 + 2s_2 = 0\\
+    p_3 &- s_1p_2 + s_2p_1 - 3s_3 = 0\\
+    &\vdots\\
+    p_i &- s_1p_{i-1} + s_2p_{i-2} - \dots + (-1)^{i-1}s_{i-1}p_1 + (-1)^i is_i =0.
+  \end{align*}
+\end{problem}
+\begin{solution}
+\vfill
+\end{solution}
+\newpage
+
+\begin{problem}[14.6.23a]
+  If $x + y + z = 1, x^2 + y^2 + z^2 = 2$ and $x^3 + y^3 + z^3 =3$, determine $x^4 + y^4 + z^4.$
+\end{problem}
+\begin{solution}
+\vfill
+\end{solution}
+\newpage
+
+\begin{problem}[14.6.37]
+  Let $f(x_1, \dots , x_n)$ be a polynomial which is symmetric in $x_1, \dots ,x_n.$ Recall that the degree (sometimes called the \emph{weight}) of the monomial $Ax_1^{a_1}x_2^{a_2}\dots x_n^{a_n} (a_i \ge 0)$ is $a_1 + a_2 + \dots + a_n$ and that a polynomial is \emph{homogeneous (of degree $m$)} if every monomial has the same degree $(m)$.
+\begin{enumerate}
+  \item Show that every polynomial $f(x_1, \dots , x_n)$ can be written as a sum of homogeneous polynomials. Show that if $f(x_1, \dots , x_n)$ is symmetric then each of these homogeneous polynomials is also symmetric.
+  \item Show that the monomial $Bs_1^{a_1}s_2^{a_2}\dots s_n^{a_n}$ in the elementary symmetric functions is a homogeneous polynomial in $x_1, x_2, \dots , x_n$ of degree $a_1 + 2a_2+ \dots + na_n.$
+\end{enumerate}
+\end{problem}
+\begin{solution}
+\vfill
+\end{solution}
+\end{document}
